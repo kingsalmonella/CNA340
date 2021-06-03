@@ -9,10 +9,8 @@ These instructions will install python on your local machine for _PythonAssignme
 1. Go to https://www.python.org/downloads/ and download the latest version.
 2. Save file
 3. Open installer and complete setup.
-### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
+**You can also install through command line:**
 ```
 sudo apt-get update
 sudo apt-get install python3.9
