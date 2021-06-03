@@ -1,10 +1,10 @@
-# Project Title
+# PythonAssignment
 
-One Paragraph of project description goes here.
+This code takes an IP address entered by the user and determines if the IP is a router or lease.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will [do something] on your local machine for _PythonAssignment_.
 
 ### Prerequisites
 
@@ -26,8 +26,8 @@ python cna_demo.py
 Add any additional ways to run the program below
 
 ```
-python cna_demo.py test.txt
+python PythonAssignment.py
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you Nikita for helping me out with GitHub.
