@@ -4,16 +4,19 @@ This code takes an IP address entered by the user and determines if the IP is a 
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for _PythonAssignment_.
+These instructions will install python on your local machine for _PythonAssignment_.
 
+1. Go to https://www.python.org/downloads/ and download the latest version.
+2. Save file
+3. Open installer and complete setup.
 ### Prerequisites
 
 [Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
+sudo apt-get update
+sudo apt-get install python3.9
+
 ```
 
 ## Running
